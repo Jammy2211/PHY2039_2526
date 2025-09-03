@@ -1,7 +1,7 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
 <div class="interlude">
-    <p>This is an extension topic and does not form part of the MAS2806-PHY2039 exam.</p>
+    <p>This is an extension topic and does not form part of the PHY2039 exam.</p>
 </div>
 
 # Parallel code

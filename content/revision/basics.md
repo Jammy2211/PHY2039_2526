@@ -231,7 +231,7 @@ round(2.555,2)
 ```
 
 
-So we can square a number, find its absolute value - good start - but as mathematicians we are going to want to do a lot more. We might expect to be able to do the following, but this returns an error message:
+So we can square a number, find its absolute value - good start - but as physicists we are going to want to do a lot more. We might expect to be able to do the following, but this returns an error message:
 
 ```python
 cos(0)
@@ -621,7 +621,7 @@ however what I get back is
 TypeError: unsupported operand type(s) for /: 'list' and 'int'
 ```
 
-Because we're mathematicians, we are likely to want to do this sort of thing. And you will also recall that, earlier on, we couldn't use mathematical functions such as $\cos$.
+Because we're physicists, we are likely to want to do this sort of thing. And you will also recall that, earlier on, we couldn't use mathematical functions such as $\cos$.
 
 ```python
 cos(0)

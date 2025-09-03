@@ -1,8 +1,8 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
-# MAS2806-PHY2039 Handout 1 - Foundations
+# PHY2039 Handout 1 - Foundations
 
-This is the virtual handout Week 1 of MAS2806-PHY2039. 
+This is the virtual handout Week 1 of PHY2039. 
 
 During the practical sessions myself and a team of postgraduate demonstrators will be circulating around the cluster. Please don't hesitate to raise your hand, or to come and find us, if you have any questions at all.
 
@@ -86,11 +86,11 @@ This handout is split into 3 parts:
 
 1.3) Curve fitting introduction
 
-We will continue with more complicated curve fitting in Week 2. If you've taken MAS1803, PHY1030, have or been through the transition material handouts then you'll find 1.1) and 1.2) familiar.
+We will continue with more complicated curve fitting in Week 2. If you've taken PHY2039, PHY1030, have or been through the transition material handouts then you'll find 1.1) and 1.2) familiar.
 
 Before you start you might like to download the cheat sheet ([HTML version here](../../background_material/cheat_sheet/index.html){target="_blank"}):
 
-It contains many of the commands and functions that are covered in MAS1803 and PHY1030.
+It contains many of the commands and functions that are covered in PHY2039.
 
 
 <br style="clear: both;">

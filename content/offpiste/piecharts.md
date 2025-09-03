@@ -1,10 +1,10 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
 <div class="interlude">
-    <p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in MAS2806-PHY2039.</p>
+    <p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in PHY2039.</p>
 </div>
 
-<h1><span style="font-size: 25px;">MAS2806/PHY2039 Off-Piste I:</span><br/>A short adventure with pie charts</h1>
+<h1><span style="font-size: 25px;">PHY2039 Off-Piste I:</span><br/>A short adventure with pie charts</h1>
 
 ![Pie chart with assessment 2 highlighted](images/piecharts/pie_assessment2.png){style="float: right; width: 300px;"}
 

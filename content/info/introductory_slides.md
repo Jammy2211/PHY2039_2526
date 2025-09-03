@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-![MAS2806/PHY2039](/static/images/mas2806-phy2039-logo.png){style="width: 600px;"}
+![PHY2039](/static/images/phy2039-logo.png){style="width: 600px;"}
 
 # Scientific computation with Python
 
@@ -8,19 +8,19 @@
 
 ## Contact details
 
-Dr William Rushworth
+Dr James Nightingale
 
-Email me via [william.rushworth@ncl.ac.uk](mailto:william.rushworth@ncl.ac.uk)
+Email me via [James.Nightingale@newcastle.ac.uk](mailto:James.Nightingale@newcastle.ac.uk)
 
-My office is Herschel 2.15 (the main building, not the annex)
+My office is Herschel Annex 2.15 (NOT the main building, the annex opposite it)
 
-Office hours are by appointment: please don't hesitate to contact me to arrange a meeting, either in-person or via Zoom. Also please feel free to knock on my door, even if you haven't made an appointment (I'm normally in the office 08:30 to 16:30, Monday to Friday).
+Office hours are After Monday's Lecture / Workshop, 11am - 1pm, however please don't hesitate to contact me to arrange a meeting via email, either in-person or via Zoom. 
 
 ---
 
 ### Lecture notes and materials
 
-* The lectures for MAS2806-PHY2039 are recorded and will be posted to Canvas.
+* The lectures for PHY2039 are recorded and will be posted to Canvas.
 
 * All slides and other lecture materials will also be posted to Canvas.
 
@@ -67,8 +67,6 @@ The module is designed to accommodate this: we will cover all necessary backgrou
 
 One lecture and one practical sesssion each week.
 
-There are too many students to fit into the Herschel Cluster at once, so there are two practical sessions scheduled. Only one will appear on your timetable; please attend your timetabled session to avoid overcrowding the cluster.
-
 <table class="table"  style="font-size: 0.8em;">
 	<tr><th rowspan="2">Monday<br/></th><td>Lecture </td><td>12:00-13:00</td><td>Herschel Curtis Auditorium</td></tr>
     <tr><td>Practical (some students)</td><td>16:00-18:00</td><td>Herschel Cluster</td></tr>
@@ -91,37 +89,37 @@ There are too many students to fit into the Herschel Cluster at once, so there a
         </tr>
         <tr >
             <td>1</td>
-            <td>23th Sept</td>
+            <td>22nd Sept</td>
             <td>Foundations + Curve Fitting I</td>
             <td></td>
         </tr>
         <tr >
             <td>2</td>
-            <td>30th Sept</td>
+            <td>29th Sept</td>
             <td>Curve Fitting II</td>
             <td>Assessment 1 opens Friday 16:00</td>
         </tr>
         <tr >
             <td>3</td>
-            <td>7th Oct</td>
+            <td>6th Oct</td>
             <td>Matrices and Linear Algebra</td>
             <td></td>
         </tr>
         <tr >
             <td>4</td>
-            <td>14th Oct</td>
+            <td>13th Oct</td>
             <td>Algorithms + Root Finding I</td>
             <td>Assessment 1 due Friday 16:00</td>
         </tr>
         <tr >
             <td>5</td>
-            <td>21st Oct</td>
+            <td>20th Oct</td>
             <td>Root Finding II</td>
             <td></td>
         </tr>
         <tr >
             <td>6</td>
-            <td>28th Oct</td>
+            <td>27th Oct</td>
             <td>Advanced Plotting</td>
             <td>Assessment 2 opens Friday 16:00</td>
         </tr>
@@ -130,31 +128,31 @@ There are too many students to fit into the Herschel Cluster at once, so there a
         </tr>
         <tr >
             <td>7</td>
-            <td>11th Nov</td>
+            <td>10th Nov</td>
             <td>Numerical differentiation and integration</td>
             <td></td>
         </tr>
         <tr >
             <td>8</td>
-            <td>18th Nov</td>
+            <td>17th Nov</td>
             <td>Differential equations I</td>
             <td>Assessment 2 due Friday 16:00</td>
         </tr>
         <tr >
             <td>9</td>
-            <td>25th Nov</td>
+            <td>24th Nov</td>
             <td>Differential equations II</td>
             <td></td>
         </tr>
         <tr >
             <td>10</td>
-            <td>2nd Dec</td>
+            <td>1st Dec</td>
             <td>Looking forward</td>
             <td></td>
         </tr>
         <tr >
             <td>11</td>
-            <td>9th Dec</td>
+            <td>8th Dec</td>
             <td>Revision</td>
             <td></td>
         </tr>
@@ -193,7 +191,7 @@ Each week contains:
 
 ### Canvas overview
 
-[![MAS2806/PHY2039 on Canvas](/static/images/intro/canvas.png){style="height:450px; border: 2px solid #AAA !important;"}](https://ncl.instructure.com/courses/53586){target="_blank"}
+[![PHY2039 on Canvas](/static/images/intro/canvas.png){style="height:450px; border: 2px solid #AAA !important;"}](https://ncl.instructure.com/courses/53586){target="_blank"}
 
 
 ---
@@ -211,7 +209,7 @@ See our [Student voice page](https://ncl.instructure.com/courses/59162/pages/stu
 
 ---
 
-### Suggestions when working on MAS2806-PHY2039
+### Suggestions when working on PHY2039
 
 **There are no stupid questions:** please don't hesitate to ask questions during or after lectures and practical sessions, by email, by visiting my office. Questions of any type and at any level are welcome:
 
@@ -225,14 +223,14 @@ Also be prepared to have a go at diagnosing problems with your code. Code almost
 ---
 
 <div class="title-slide" style="background-image: url('../../static/images/intro/screensaver.gif');">
-    <h2>MAS2806/PHY2039 off-piste</h2>
+    <h2>PHY2039 off-piste</h2>
 </div>
 
 ---
 
 ### Off-piste section
 
-The module Canvas page contains an Off-piste section: these are **optional** and **not testable** extra activities that use some of the skills developed in MAS2806-PHY2039.
+The module Canvas page contains an Off-piste section: these are **optional** and **not testable** extra activities that use some of the skills developed in PHY2039.
 
 There is no expectation or requirement that you look at this material, but you may find it interesting.
 
@@ -250,7 +248,7 @@ There is no expectation or requirement that you look at this material, but you m
 
 The vast majority of modern mathematics and physics research involves programming to some degree.
 
-A good way to get some examples of this is by asking lecturers in your other modules, or the postgraduate demonstrators in the MAS2806-PHY2039 practical sessions: how do they use programming in their research work?
+A good way to get some examples of this is by asking lecturers in your other modules, or the postgraduate demonstrators in the PHY2039 practical sessions: how do they use programming in their research work?
 
 ---
 

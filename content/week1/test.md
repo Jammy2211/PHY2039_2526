@@ -226,7 +226,7 @@ round(2.555,2)
 ```
 
 
-So we can square a number, find its absolute value - good start - but as mathematicians we are going to want to do a lot more. We might expect to be able to do
+So we can square a number, find its absolute value - good start - but as physicists we are going to want to do a lot more. We might expect to be able to do
 
 ```{.code .python data-gutter-symbol=">>>" data-code-dir="input"}
 cos(0)
@@ -617,7 +617,7 @@ however what I get back is
 ```
 TypeError: unsupported operand type(s) for /: 'list' and 'int'
 ```
-Because we're mathematicians, we are likely to want to do this sort of thing. Fortunately *numpy* is brilliant at this...
+Because we're physicists, we are likely to want to do this sort of thing. Fortunately *numpy* is brilliant at this...
 
 
 ## Arrays in *numpy*

@@ -9,7 +9,7 @@ Use this as a quick reference of where in the course we look at functions and to
 <div id="tabsContent" class="tab-content">
     <div id="home1" class="tab-pane fade active show">
        <h2>Content by week</h2>
-       <p>Here are all of the functions and algorithms in MAS2806/PHY2039 by week</p>
+       <p>Here are all of the functions and algorithms in PHY2039 by week</p>
        <a class="btn btn-primary" style="margin-bottom: 20px;" href="../learning_material_di_1/learning_material_di_1.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true" title="PDF"></i> Download content by week as PDF</a>
        <h3>Week 1</h3>
        <table class="table table-striped">

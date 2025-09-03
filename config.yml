@@ -1,9 +1,9 @@
 title: Scientific Computation with Python
-code: MAS2806-PHY2039
-year: 2024-25
+code: PHY2039
+year: 2025-26
 base_dir: lti/content
 root_url: /{base}/{code}/{year}/
-author: Dr William Rushworth 
+author: Dr James Nightingale
 css: 
   - custom.css
 structure:        
@@ -212,14 +212,14 @@ structure:
           topbar: false    
           is_hidden: false
     - type: part
-      # To add next year here or in MAS1803:
+      # To add next year here or in PHY2039:
       # - Facial recognition
       # - quarternions?
       # - image similarity
       # - plotting on a map (crawfish infestation in UK - Northumberland Zoo - geopandas)
       # - Python shiny
       # - Superbowl google trends: "superbowl" and "Roman numerals" (Feb)
-      title: 'MAS2806-PHY2039 Off Piste'
+      title: 'PHY2039 Off Piste'
       content:
         - type: chapter
           title: Pie charts

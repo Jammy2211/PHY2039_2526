@@ -66,5 +66,5 @@ plt.ylabel('y(t)')
 plt.ylim(-0.5,6.5)
 plt.xlim(-0.5,5.3)
 #plt.title('Euler Method dt/dt = -y/2'.format(round(t[1]-t[0],2)))
-plt.savefig('/Users/chris/Code/makecourse/modules/MAS1803/static/images/week6/explanation{}.png'.format(m))
+plt.savefig('/Users/chris/Code/makecourse/modules/PHY2039/static/images/week6/explanation{}.png'.format(m))
 

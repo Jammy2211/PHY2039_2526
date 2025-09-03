@@ -24,7 +24,7 @@ $(document).ready(function() {
 	    });
 	});
 
-	$( "<img src='../../static/images/mas2806-phy2039-logo.png' style='width: 400px; border: 0; box-shadow: none;'>" ).insertBefore( "#title-slide h1" );
+	$( "<img src='../../static/images/phy2039-logo.png' style='width: 400px; border: 0; box-shadow: none;'>" ).insertBefore( "#title-slide h1" );
 
 	// $("iframe").each(function() {
 	//      $(this).on('load', function(){

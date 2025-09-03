@@ -1,6 +1,6 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
-# MAS2806-PHY2039 Handout 6
+# PHY2039 Handout 6
 
 This week covers more advanced plotting techniques, including visualizing more complicated data and gaining greater control over the display of plots. 
 

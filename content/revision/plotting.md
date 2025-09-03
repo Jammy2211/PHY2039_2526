@@ -371,7 +371,7 @@ Then once we have made our beautiful plot, we can export our figure with the com
 fig.savefig("filename.png")
 ```
 
-Note that the string could be a full path to a location on your computer, e.g. `"H:/Python/MAS1803/filename.png"`.
+Note that the string could be a full path to a location on your computer, e.g. `"H:/Python/PHY2039/filename.png"`.
 
 This has a number of options. You'll see by opening up any of the source code links under my plots that I set the background to be slightly transparent (so they aren't entirely white in the dark mode of these notes). I use the format "png" as it works well for websites, but `savefig` can save in several other formats.
 

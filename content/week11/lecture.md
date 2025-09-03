@@ -1,4 +1,4 @@
-![MAS2806/PHY2039](/static/images/mas2806-phy2039-logo.png){style="width: 600px;"}
+![PHY2039](/static/images/phy2039-logo.png){style="width: 600px;"}
 
 <h1 style="text-align: center;">Lecture 11 - Revision </h1>
 
@@ -9,7 +9,7 @@
 * In-person invigilated exam in a campus computer cluster.
 * Open-book: can consult hand-written or printed notes, the Canvas materials, the internet... Cannot have conversation with another person or an AI tool.
 
-Full information available [on this page](https://ncl.instructure.com/courses/59162/pages/preparing-for-the-mas2806-phy2039-exam).
+Full information available [on this page](https://ncl.instructure.com/courses/59162/pages/preparing-for-the-phy2039-exam).
 
 ---
 

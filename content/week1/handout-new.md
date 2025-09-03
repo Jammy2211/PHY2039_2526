@@ -1,10 +1,10 @@
 
-# MAS2806/PHY2039 Handout 1 - Foundations
+# PHY2039 Handout 1 - Foundations
 
 ![Your first command!](images/handsup.png){style="float: right; width: 40%; max-width: 130px; margin: -30px 0 10px 30px;"}
 
 
-Welcome to the "handout" for the first week of MAS2806/PHY2039 material. 
+Welcome to the "handout" for the first week of PHY2039 material. 
 
 During the practical session, myself and my ace team of postgraduate helpers will be floating around. If you have any questions at all then don't hesitate to stick your hand up and give us a shout. I'm granting you a quota of UNLIMITED questions that you can ask us; remember there are **no silly questions**!
 
@@ -15,7 +15,7 @@ During the practical session, myself and my ace team of postgraduate helpers wil
 
 ## Today's Content
 
-The aim of this week is to establish the foundations that we need for MAS2806/PHY2039. After a little bit of admin (accessing Spyder and how these handouts work) we'll cover the following today:
+The aim of this week is to establish the foundations that we need for PHY2039. After a little bit of admin (accessing Spyder and how these handouts work) we'll cover the following today:
 
 * **Python Basics** - some of the key concepts and functions that will form the core of our programming in this module.
 
@@ -27,7 +27,7 @@ The aim of this week is to establish the foundations that we need for MAS2806/PH
 
 
 
-If you have done MAS1803, PHY1030 or been through the revision handouts then you'll find that a lot of this week's material covers very similar ground.
+If you have done PHY2039 or been through the revision handouts then you'll find that a lot of this week's material covers very similar ground.
 
 Before you start you might like to download the cheat sheet ([online version here](../../background_material/cheat_sheet/index.html){target="_blank"}):
 

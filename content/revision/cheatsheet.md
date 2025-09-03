@@ -8,7 +8,7 @@
 <h4 style="margin-top: 10px;"><a href="/static/pdf/python-cheat.pdf" target="_blank">Cheat Sheet (PDF version)</a></h4>
 </div>
 
-This is a cheat sheet of commands from the stage 1 Python module MAS1803, provided as a useful reference.
+This is a cheat sheet of commands from the stage 1 Python module PHY2039, provided as a useful reference.
 
 Click the image to download a PDF copy to stick on your wall!
 

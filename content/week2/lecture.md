@@ -1,4 +1,4 @@
-![MAS2806/PHY2039](/static/images/mas2806-phy2039-logo.png){style="width: 600px;"}
+![PHY2039](/static/images/phy2039-logo.png){style="width: 600px;"}
 
 # Lecture 2 - Curve Fitting
 

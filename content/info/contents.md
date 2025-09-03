@@ -1,6 +1,6 @@
 # Module Contents
 
-A comprehensive list of the topics covered in MAS2806-PHY2039.
+A comprehensive list of the topics covered in PHY2039.
 
 ## Week 1 - Foundations and Curve fitting I
 

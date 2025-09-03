@@ -1,4 +1,4 @@
-![MAS2806/PHY2039](/static/images/mas2806-phy2039-logo.png){style="width: 600px;"}
+![PHY2039](/static/images/phy2039-logo.png){style="width: 600px;"}
 
 <h1 style="text-align: center;">Lecture 9 - Differential equations II</h1>
 
@@ -6,7 +6,7 @@
 
 ## Announcements
 
-* [Preparation advice for the January exam](https://ncl.instructure.com/courses/59162/pages/preparing-for-the-mas2806-phy2039-exam) has been posted to the module Canvas page.
+* [Preparation advice for the January exam](https://ncl.instructure.com/courses/59162/pages/preparing-for-the-phy2039-exam) has been posted to the module Canvas page.
 * Includes mock exams; please email me with any particular questions from these papers you'd like to go through in Week 11.
 
 ---

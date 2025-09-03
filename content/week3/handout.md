@@ -1,6 +1,6 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
-# MAS2806-PHY2039 Handout 3
+# PHY2039 Handout 3
 
 This week covers linear algebra, including matrix manipulation, solving systems of linear equations, and eigenvalue problems. We use NumPy and SciPy to acoomplish these goals.
 

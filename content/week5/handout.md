@@ -1,6 +1,6 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
-# MAS2806-PHY2039 Handout 5
+# PHY2039 Handout 5
 
 This handout covers:
 

@@ -1,6 +1,6 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
-# MAS2806-PHY2039 Handout 2
+# PHY2039 Handout 2
 
 Welcome to the handout for the second week of Python material. A reminder of some of the features of the handouts:
 
@@ -16,7 +16,7 @@ This is an exercise. They'll help you to check your progress and will give autom
 
 **Interlude**
 
-This is an interlude i.e. material outside the testable content of MAS2806-PHY2039 that you may find interesting.
+This is an interlude i.e. material outside the testable content of PHY2039 that you may find interesting.
 
 </div>
 

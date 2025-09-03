@@ -1,6 +1,6 @@
 
 <h2>Content by week</h2>
-Here are all of the functions and algorithms in MAS2806/PHY2039 by week</p>
+Here are all of the functions and algorithms in PHY2039 by week</p>
 <h3>Week 1</h3>
 <table class="table table-striped">
 	<tr style="font-size: 1.2em;">

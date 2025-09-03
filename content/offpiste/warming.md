@@ -1,12 +1,12 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
 <div class="interlude">
-	<p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in MAS2806-PHY2039.</p>
+	<p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in PHY2039.</p>
 </div>
 
-<h1><span style="font-size: 25px;">MAS2806/PHY2039 Off-Piste IV:</span><br/>Warming Stripes</h1>
+<h1><span style="font-size: 25px;">PHY2039 Off-Piste IV:</span><br/>Warming Stripes</h1>
 
-In this edition of MAS2806/PHY2039 off-piste, we're recreating the *warming stripes*, a data visualisation that was originally the brainchild of Professor Ed Hawkins, a climate scientist at the University of Reading. The stripes provided an easy to digest visualisation of the average global temperature compared to a reference period (I've used the Met Office data, which compares to the average from 1961-1990).
+In this edition of PHY2039 off-piste, we're recreating the *warming stripes*, a data visualisation that was originally the brainchild of Professor Ed Hawkins, a climate scientist at the University of Reading. The stripes provided an easy to digest visualisation of the average global temperature compared to a reference period (I've used the Met Office data, which compares to the average from 1961-1990).
 
 ##  Walk-through
 

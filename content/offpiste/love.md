@@ -1,12 +1,12 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
 <div class="interlude">
-	<p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in MAS2806-PHY2039.</p>
+	<p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in PHY2039.</p>
 </div>
 
-<h1><span style="font-size: 25px;">MAS2806/PHY2039 Off-Piste 7:</span><br/>Equations of Love</h1>
+<h1><span style="font-size: 25px;">PHY2039 Off-Piste 7:</span><br/>Equations of Love</h1>
 
-In this edition of MAS2806/PHY2039 off-piste, we're looking at some *equations of love*, or more specifically some *differential equations of love*. And a "love"ly plot that you can send to your partner, bff, gran or whoever.
+In this edition of PHY2039 off-piste, we're looking at some *equations of love*, or more specifically some *differential equations of love*. And a "love"ly plot that you can send to your partner, bff, gran or whoever.
 
 ## Differential Equations of Love and Love of Differential Equations
 

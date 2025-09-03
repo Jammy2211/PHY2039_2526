@@ -1,10 +1,10 @@
 [Click here to open this handout in a new browser tab](#){target="_blank"}
 
 <div class="interlude">
-	<p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in MAS2806-PHY2039.</p>
+	<p>The material on this page is outside the scope of the module, and is not testable in the assignments or examinations. There is no requirement or expectation to read any of this material: it is presented to provide a selection of interesting things related to the skills and techniques covered in PHY2039.</p>
 </div>
 
-<h1><span style="font-size: 25px;">MAS2806/PHY2039 Off-Piste 3:</span><br/>Behind the Scenes of Numbas</h1>
+<h1><span style="font-size: 25px;">PHY2039 Off-Piste 3:</span><br/>Behind the Scenes of Numbas</h1>
 
 I often get asked how Numbas manages to mark your code automatically, which is a really good question! It's a really good question because it's something I get very excited talking about... I've been working on it with colleagues for the past few years. But also because it links in really well with some of our other activities including control flow / logical operators. And you get to find out more about how your assessment questions are marked.
 
