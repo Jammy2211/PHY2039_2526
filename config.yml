@@ -31,10 +31,10 @@ structure:
           title: Functions
           source: content/revision/functions.md  
           topbar: false
-        - type: chapter   
-          title: Assessment 1 plotting mark scheme
-          source: content/info/a1_markscheme/assessment1_mark_scheme.tex  
-          topbar: false 
+      #  - type: chapter
+      #    title: Assessment 1 plotting mark scheme
+      #    source: content/info/a1_markscheme/assessment1_mark_scheme.tex
+       #   topbar: false
     - type: part
       title: Introduction and useful links
       content:
