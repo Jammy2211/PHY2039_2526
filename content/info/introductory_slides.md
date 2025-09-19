@@ -68,7 +68,7 @@ The module is designed to accommodate this: we will cover all necessary backgrou
 One lecture and one practical sesssion each week.
 
 <table class="table"  style="font-size: 0.8em;">
-	<tr><th rowspan="2">Monday<br/></th><td>Lecture </td><td>10:00-11:00</td><td>See Timetable due to Variation</td></tr>
+	<tr><th>Monday<br/></th><td>Lecture </td><td>10:00-11:00</td><td>See Timetable due to Variation</td></tr>
     <tr><th>Friday</th><td>Practical</td><td>11:00-13:00</td><td>KGVI.IT Service Cluster (LAWN.PC 2.33), (KGVI University Map ref:19)</td></tr>
 </table>
 
