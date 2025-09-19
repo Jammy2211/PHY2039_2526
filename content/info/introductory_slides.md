@@ -59,7 +59,7 @@ This module covers the programming language **Python** and its use in tackling a
 
 The module builds on the Python course you completed in your first year.
 
-The module is designed to accommodate this: we will cover all necessary background, and by the second or third week it won't make much difference how much Python you have studied previously.
+The first few weeks are a recap, and by the second or third week it won't make much difference how much Python you have studied previously.
 
 ---
 
