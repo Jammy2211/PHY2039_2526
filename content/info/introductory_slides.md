@@ -57,7 +57,7 @@ Description of what's covered in this week's practical session.
 
 This module covers the programming language **Python** and its use in tackling a variety of numerical methods, useful in particular to applied mathematics and physics.
 
-Three levels of Python background in the module: some students have taken a semester of Python, some half a semester, and some have done no Python at university yet.
+The module builds on the Python course you completed in your first year.
 
 The module is designed to accommodate this: we will cover all necessary background, and by the second or third week it won't make much difference how much Python you have studied previously.
 
@@ -68,9 +68,8 @@ The module is designed to accommodate this: we will cover all necessary backgrou
 One lecture and one practical sesssion each week.
 
 <table class="table"  style="font-size: 0.8em;">
-	<tr><th rowspan="2">Monday<br/></th><td>Lecture </td><td>12:00-13:00</td><td>Herschel Curtis Auditorium</td></tr>
-    <tr><td>Practical (some students)</td><td>16:00-18:00</td><td>Herschel Cluster</td></tr>
-    <tr><th>Thursday</th><td>Practical (some students)</td><td>11:00-13:00</td><td>Herschel Cluster</td></tr>
+	<tr><th rowspan="2">Monday<br/></th><td>Lecture </td><td>10:00-11:00</td><td>See Timetable due to Variation</td></tr>
+    <tr><th>Friday</th><td>Practical</td><td>11:00-13:00</td><td>KGVI.IT Service Cluster (LAWN.PC 2.33), (KGVI University Map ref:19)</td></tr>
 </table>
 
 ---
@@ -168,7 +167,9 @@ One lecture and one practical sesssion each week.
 
 ### Assessment
 
-![Assessment structure](/static/images/intro/assessment.png){style="width: 100%;"}
+- Assessment 1: 5%
+- Assessment 2: 15%
+- End of module exam: 80%
 
 
 ---
