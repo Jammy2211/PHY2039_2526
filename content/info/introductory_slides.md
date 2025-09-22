@@ -12,7 +12,7 @@ Dr James Nightingale
 
 Email me via [James.Nightingale@newcastle.ac.uk](mailto:James.Nightingale@newcastle.ac.uk)
 
-My office is Herschel Annex 2.15 (NOT the main building, the annex opposite it)
+My office is Herschel Annex 2.25 (NOT the main building, the annex opposite it, door has "Dr Colin Woods" written on it currently)
 
 Office hours are After Monday's Lecture / Workshop, 11am - 1pm, however please don't hesitate to contact me to arrange a meeting via email, either in-person or via Zoom. 
 
@@ -265,6 +265,23 @@ We'll suffice ourselves by making the following observation:
 
 > Computer implementation of mathematics often has a low price and a (very) high payoff
 
+### AI and Large Language Models
+
+Tools like ChatGPT are now extremely good at coding — they could pass this module’s exam with a first-class mark.
+
+They are an excellent learning aid: you are strongly encouraged to use them to help you understand and practice coding.
+
+But beware: it’s easy to become over-reliant and use them in ways that stop you from actually learning the course material yourself.
+
+---
+
+### AI And Exams
+
+Assessment 1 & 2: You may use AI tools (e.g. ChatGPT).
+
+Exam: AI tools will be blocked and not available.
+
+Advice: At the end of each workshop, spend ~30 minutes doing the exercises without AI to prepare for the exam.
 
 ---
 
