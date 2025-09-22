@@ -13,7 +13,7 @@ Deadline: 16:00 on the 18th of October.
 
 Questions: during practical, via email.
 
-Office hours: email to make an appointment, or just see if I'm in (Herschel 2.25, door has "Dr Colin Woods" written on it currently).
+Office hours: email to make an appointment, or just see if I'm in (Herschel 2.12, door has "Dr Colin Woods" written on it currently).
 
 ---
 

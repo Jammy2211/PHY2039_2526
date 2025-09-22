@@ -12,7 +12,7 @@ Dr James Nightingale
 
 Email me via [James.Nightingale@newcastle.ac.uk](mailto:James.Nightingale@newcastle.ac.uk)
 
-My office is Herschel Annex 2.25 (NOT the main building, the annex opposite it, door has "Dr Colin Woods" written on it currently)
+My office is Herschel Annex 2.12 (NOT the main building, the annex opposite it, door has "Dr Colin Woods" written on it currently)
 
 Office hours are After Monday's Lecture / Workshop, 11am - 1pm, however please don't hesitate to contact me to arrange a meeting via email, either in-person or via Zoom. 
 
@@ -264,6 +264,8 @@ We could spend hours discussing the many ways in which programming will be usefu
 We'll suffice ourselves by making the following observation:
 
 > Computer implementation of mathematics often has a low price and a (very) high payoff
+
+---
 
 ### AI and Large Language Models
 
