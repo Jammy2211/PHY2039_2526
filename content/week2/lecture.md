@@ -55,6 +55,8 @@ x = 2 #Comments can also be placed at the end of a line
 
 ### Printing Variables
 
+You can print ndarrays to diagnose bugs:
+
 ```python
 import numpy as np
 
@@ -62,6 +64,8 @@ arr = np.linspace(-5.0, 5.0, 101)
 
 print(arr)
 ```
+
+---
 
 This prints the following:
 
