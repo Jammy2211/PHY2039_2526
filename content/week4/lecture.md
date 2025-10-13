@@ -6,9 +6,9 @@
 
 ## Reminder
 
-* Assessment 1 deadline is this Friday 18th at 16:00.
+* Assessment 1 deadline is this Friday 17th at 16:00.
 
-* Two week gap, then Assessment 2 released on Friday 1st November at 16:00.
+* Two week gap, then Assessment 2 released on Friday 31st October at 16:00.
 
 ---
 
