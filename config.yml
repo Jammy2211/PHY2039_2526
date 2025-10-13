@@ -55,7 +55,7 @@ structure:
           source: content/week1/lecture.md   
           topbar: false   
           title_slide: false            
-        - type: notebook
+        - type: chapter
           title: Week 1 Handout
           source: content/week1/handout.md  
           topbar: false
@@ -67,7 +67,7 @@ structure:
           source: content/week2/lecture.md   
           title_slide: false            
           topbar: false   
-        - type: notebook
+        - type: chapter
           title: Week 2 Handout
           source: content/week2/handout.md  
           topbar: false 
@@ -80,7 +80,7 @@ structure:
           title_slide: false            
           topbar: false    
           is_hidden: false
-        - type: notebook
+        - type: chapter
           title: Week 3 Handout
           source: content/week3/handout.md  
           topbar: false       
@@ -124,7 +124,7 @@ structure:
           topbar: false   
           title_slide: false  
           is_hidden: false
-        - type: notebook
+        - type: chapter
           title: Week 6 Handout
           source: content/week6/handout.md  
           topbar: false          
@@ -138,7 +138,7 @@ structure:
           topbar: false   
           title_slide: false 
           is_hidden: false
-        - type: notebook
+        - type: chapter
           title: Week 7 Handout
           source: content/week7/handout.md  
           topbar: false      
@@ -152,7 +152,7 @@ structure:
           topbar: false   
           title_slide: false
           is_hidden: false
-        - type: notebook
+        - type: chapter
           title: Week 8 Handout
           source: content/week8/handout.md  
           topbar: false           
@@ -166,7 +166,7 @@ structure:
           topbar: false   
           title_slide: false   
           is_hidden: false
-        - type: notebook
+        - type: chapter
           title: Week 9 Handout
           source: content/week9/handout.md  
           topbar: false           
@@ -180,7 +180,7 @@ structure:
           topbar: false   
           title_slide: false 
           is_hidden: false
-        - type: notebook
+        - type: chapter
           title: Week 10 Handout
           source: content/week10/handout.md  
           topbar: false           
@@ -269,17 +269,17 @@ structure:
         - type: part
           title: 'Extension Topics'
           content:
-          - type: notebook
+          - type: chapter
             title: Jupyter Notebooks
             source: content/offpiste/extension_topics/jupyter.md   
             topbar: false  
             build_pdf: False   
-          - type: notebook
+          - type: chapter
             title: Partial Differential Equations
             source: content/offpiste/extension_topics/pdes.md   
             topbar: false  
             build_pdf: False  
-          - type: notebook
+          - type: chapter
             title: Parallel Programming
             source: content/offpiste/extension_topics/parallel.md   
             topbar: false  
