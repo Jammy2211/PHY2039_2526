@@ -14,7 +14,7 @@
 
 ## Assessment 2
 
-* Due on **Wednesday 20th November** at 16:00.
+* Due on ***Friday 21th November** at 16:00.
 * See Preparing for Assessment 2 page in module Canvas.
 * Email me to ask questions or book office hours.
 

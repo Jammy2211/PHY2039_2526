@@ -23,8 +23,8 @@ Most common suggestion of something to improve: make the lecture more useful. I 
 ## Assessment 2
 
 * Based on Weeks 4 to 6.
-* Open Wednesday 30th.
-* Due *Wednesday* 20th November at 16:00.
+* Open Friday 31th.
+* Due *Friday* 21st November at 16:00.
 * Includes submission of a report.
 
 ---
