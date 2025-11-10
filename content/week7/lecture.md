@@ -194,6 +194,30 @@ function showSlides(n) {
 }
 </script>
 
+----
+
+### `derivative`
+
+The Scipy function `derivative` approximates the first derivative of $f$, given a function $f$.
+
+```python
+import numpy as np
+import scipy.misc as sm
+def f(x):
+    return np.sin(x)
+print(sm.derivative(f, 0, dx=1e-6))
+```
+
+----
+
+### Numpy and Scipy
+
+There is a theme emerging between numpy and scipy:
+
+- Numpy works on arrays where the functions are implicit (e.g. `polyfit, `gradient`).
+
+- Scipy works on functions where the functions are explicit (e.g. `curve_fit`, `derivative`).
+
 ---
 
 ## Numerical integration
