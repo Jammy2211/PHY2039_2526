@@ -276,6 +276,21 @@ myint = integrate.trapezoid(y,x)
 
 $$ \int _{a}^{b}f(x)\,dx\approx (b-a){\tfrac {1}{2}}(f(a)+f(b)) $$
 
+
+---
+
+###  `midpoint`
+
+![The trapezoid method](/static/images/week7/midpoint.png){width=70%}
+
+---
+
+### `Simpsons Rule`
+
+Combining the trapezoid and midpoint methods gives Simpson's Rule:
+
+$$ \int_a^b f(x)\mathrm{d}x \approx \frac{b-a}{6}\left[f(a)+4f\left({\frac {a+b}{2}}\right)+f(b)\right] $$
+
 ---
 
 ![The Herschel Cluster](/static/images/intro/cluster.jpg){width="60%"}
