@@ -4,7 +4,7 @@
 
 ----
 
-* Assessment 2: deadline **Wednesday at 16:00**.
+* Assessment 2: deadline **Friday at 16:00**.
 * Please email me with questions or to book an office hours appointment.
 
 ----
