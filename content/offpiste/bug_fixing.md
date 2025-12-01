@@ -7,18 +7,21 @@ However, it contains a bug and does not given the expected result.
 
 In the lecture I will show how to use print() statements to debug and fix this code.
 
-**Intended behaviour**
-A is:
+**Intended behaviour**.
 
+A is:
 
     [[1 1 1]
     [2 2 2]
     [3 3 3]]
 
+The first column is: 
 
-The first column is [1, 2, 3].
+    [[1].
+     [2], 
+     [3]].
 
-Doubling it gives A is:
+Doubling it inside A gives the array:
 
     [[2 1 1]
     [4 2 2]
@@ -46,8 +49,8 @@ assert np.array_equal(A, expected), "Column extraction is incorrect!"
 
 This script creates two matrices, and computes:
 
-1) Their sum.
-2) Their dot product.
+    1) Their sum.
+    2) Their dot product.
 
 However, it contains a bug and does not given the expected result.
 
@@ -57,15 +60,12 @@ In the lecture I will show how to use print() statements to debug and fix this c
 
 A and B are both 1D arrays of shape (3,) with all elements equal to 1:
 
-
     A = [1, 1, 1]
     B = [1, 1, 1]
-
 
 The sum C_sum = A + B should be:
 
     C_sum = [2, 2, 2]
-
 
 The dot product C = np.dot(A, B.T) should be a 3x3 matrix with all elements equal to 1:
 
@@ -74,14 +74,14 @@ The dot product C = np.dot(A, B.T) should be a 3x3 matrix with all elements equa
         [1, 1, 1]]
 
 
-Task:
+**Task:**
 
 Use print statements, in particular printing the same of the numpy arrays, to identify and fix the bug(s) in the code.
 
 Here is how you print the shape of a numpy array:
 
-print(A.shape)
-print(B.shape)
+    print(A.shape)
+    print(B.shape)
 
 ```runnable lang="python"
 import numpy as np
@@ -111,10 +111,10 @@ This script demonstrates basic NumPy array operations and the use of for loops
 to manipulate specific rows of a matrix.
 
 It is intended to:
-1. Create two matrices, A (3×3) and B (3×2), and prepare an empty 3×2 result matrix.
-2. Add the square of the first row of A to the first row of the result matrix.
-3. Double the values in the second row of the result matrix using a for loop.
-4. Check that the final matrix matches the expected output using an assert statement.
+
+    1. Create two matrices, A (3×3) and B (3×2), and prepare an empty 3×2 result matrix.
+    2. Add the square of the first row of A to the first row of the result matrix.
+    3. Double the values in the second row of the result matrix using a for loop.
 
 **Bug**
 
@@ -167,7 +167,6 @@ assert (sum_matrix == np.array([[1, 4],
                                [0, 0]])).all()
 ```
 
-
 ##  Bug 4
 
 This script attempts to solve the ODE
@@ -176,15 +175,13 @@ This script attempts to solve the ODE
 
 using the forward Euler method.
 
-Intended behaviour:
--------------------
+**Intended behaviour**
 
 The code should:
 
-1. Create a time array t of length 10 (0 to 1 in steps of 0.1).
-2. Use Euler's formula:
-       y[n+1] = y[n] + h * f(y[n], t[n])
-3. Return all values of y.
+    1. Create a time array t of length 10 (0 to 1 in steps of 0.1).
+    2. Use Euler's formula: y[n+1] = y[n] + h * f(y[n], t[n])
+    3. Return all values of y.
 
 Bug:
 ----
@@ -237,9 +234,9 @@ However, the code contains THREE bugs.
 
 Your tasks:
 
-1. Use print() statements to identify all three bugs.
-2. Fix the code so it correctly computes the integral.
-3. Verify that the final answer should be 1.0 (the exact value of ∫₀¹ 3x² dx).
+    1. Use print() statements to identify all three bugs.
+    2. Fix the code so it correctly computes the integral.
+    3. Verify that the final answer should be 1.0 (the exact value of ∫₀¹ 3x² dx).
 
 ```runnable lang="python"
 import numpy as np
