@@ -9,16 +9,22 @@ In the lecture I will show how to use print() statements to debug and fix this c
 
 **Intended behaviour**
 A is:
+
+```python
 [[1 1 1]
  [2 2 2]
  [3 3 3]]
+```
 
 The first column is [1, 2, 3].
+
 Doubling it gives A is:
 
+```python
 [[2 1 1]
  [4 2 2]
  [6 3 3]]
+```
 
 ```runnable lang="python"
 import numpy as np
@@ -51,18 +57,25 @@ In the lecture I will show how to use print() statements to debug and fix this c
 **Intended behaviour**
 
 A and B are both 1D arrays of shape (3,) with all elements equal to 1:
+
+```python
 A = [1, 1, 1]
 B = [1, 1, 1]
+```
 
 The sum C_sum = A + B should be:
 
+```python
 C_sum = [2, 2, 2]
+```
 
 The dot product C = np.dot(A, B.T) should be a 3x3 matrix with all elements equal to 1:
 
+```python
 C = [[1, 1, 1],
     [1, 1, 1],
     [1, 1, 1]]
+```
 
 Task:
 
