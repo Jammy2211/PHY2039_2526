@@ -265,7 +265,12 @@ structure:
           title: Christmas Trees
           source: content/offpiste/christmas.md   
           topbar: false  
-          build_pdf: False    
+          build_pdf: False
+        - type: chapter
+          title: Bug Fixing
+          source: content/offpiste/bug_fixing.md
+          topbar: false
+          build_pdf: False
         - type: part
           title: 'Extension Topics'
           content:
