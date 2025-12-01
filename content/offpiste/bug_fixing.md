@@ -206,8 +206,8 @@ The code should:
     2. Use Euler's formula: y[n+1] = y[n] + h * f(y[n], t[n])
     3. Return all values of y.
 
-Bug:
-----
+**Bug**
+
 The loop runs correctly for the first few iterations, but then crashes with:
 
     IndexError: index 10 is out of bounds for axis 0 with size 10
