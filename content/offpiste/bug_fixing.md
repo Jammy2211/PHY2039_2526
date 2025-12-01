@@ -73,6 +73,11 @@ The dot product C = np.dot(A, B.T) should be a 3x3 matrix with all elements equa
         [1, 1, 1],
         [1, 1, 1]]
 
+However, the dot prodice gives:
+
+    C = 3
+
+What do you need to do with the shapes of C to make it output a 3 x 3 matrix?
 
 **Task:**
 
