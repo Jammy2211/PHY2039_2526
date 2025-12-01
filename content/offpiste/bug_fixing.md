@@ -1,4 +1,4 @@
-##  Bug 1
+##  Bug Lecture Demo
 
 This script is meant to extract the first column of a 2D numpy array A
 and double its values.
@@ -45,16 +45,14 @@ assert np.array_equal(A, expected), "Column extraction is incorrect!"
 ```
 
 
-##  Bug 2
+##  Bug 1
 
-This script creates two matrices, and computes:
+This script creates two 1D numpy arrays, and computes:
 
     1) Their sum.
-    2) Their dot product.
+    2) It then tries to perform a matrix multiplicaiton, assuming one is 3 x 1 and the other is 1 x 3, but it fails.
 
-However, it contains a bug and does not given the expected result.
-
-In the lecture I will show how to use print() statements to debug and fix this code.
+The goal is to get a 3 x 3 matrix as the result of the matrix multiplication.
 
 **Intended behaviour**
 
@@ -63,25 +61,23 @@ A and B are both 1D arrays of shape (3,) with all elements equal to 1:
     A = [1, 1, 1]
     B = [1, 1, 1]
 
-The sum C_sum = A + B should be:
+The sum C_sum = A + B is:
 
     C_sum = [2, 2, 2]
 
-The dot product C = np.dot(A, B.T) should be a 3x3 matrix with all elements equal to 1:
+If A is a 3 x 1 matrix, and B is a 1 x 3 matrix, their matrix multiplication should be a 3x3 matrix with all elements equal to 1:
 
     C = [[1, 1, 1],
         [1, 1, 1],
         [1, 1, 1]]
 
-However, the dot prodice gives:
-
-    C = 3
+However, the code below does not produce the expected 3 x 3 matrix.
 
 What do you need to do with the shapes of C to make it output a 3 x 3 matrix?
 
 **Task:**
 
-Use print statements, in particular printing the same of the numpy arrays, to identify and fix the bug(s) in the code.
+Use print statements, in particular printing the shape of the numpy arrays, to identify and fix the bug(s) in the code.
 
 Here is how you print the shape of a numpy array:
 
@@ -100,7 +96,7 @@ expected_sum = np.array([2,2,2])
 
 assert np.array_equal(C_sum, expected_sum), "Sum is Incorrect!"
 
-C = np.dot(A, B.T)
+C = np.matmul(A, B)
 
 expected = np.array([[1,1,1],
                      [1,1,1],
@@ -110,7 +106,7 @@ expected = np.array([[1,1,1],
 assert np.array_equal(C, expected), "Matrix Multiplication Incorrect!"
 ```
 
-##  Bug 3
+##  Bug 2
 
 This script demonstrates basic NumPy array operations and the use of for loops
 to manipulate specific rows of a matrix.
@@ -136,9 +132,31 @@ The code below when run gives the error:
 Use print statements to diagnose the bug and fix the code.
 
 In particular, print the shape of a numpy array to absolutely confirm why the bug occurs. An example of
-printing the shape of the numpy array A is given in the code below.
+printing the shape of numpy arrays was used in the previous example.
 
 Reading the error message above is particularly helpful, as it directly points to where the code breaks.
+
+**Description of the bug**
+
+Lets break down what an IndexError is telling us here:
+
+    Traceback (most recent call last):
+        File "/mnt/c/Users/Jammy/Code/PHY2039/bug_fix_1.py", line 50, in <module>
+            sum_matrix[0, i] += A[0, i]**2
+            ~~~~~~~~~~^^^^^^
+    IndexError: index 2 is out of bounds for axis 1 with size 2
+
+This is telling us that for the numpy array `sum_matrix`, we are: 
+
+    - Trying to access to its first axis (axis 1, where the input is the `i` in [0, i]) 
+    - Trying to access index 2 of axis 1 (e.g the value of `i` is 2).
+    - But axis 1 only has size 2 (meaning the only valid indices are 0 and 1).
+
+An equivalent way to produce this bug would be simply to run:
+
+    import numpy as np
+    sum_matrix = np.zeros((3,2)) # Second axis has size 2
+    print(A[0,2])  # This will give the same IndexError, because 2 is out of bounds for axis 1 with size 2
 
 ```runnable lang="python"
 import numpy as np
@@ -172,7 +190,7 @@ assert (sum_matrix == np.array([[1, 4],
                                [0, 0]])).all()
 ```
 
-##  Bug 4
+##  Bug 3
 
 This script attempts to solve the ODE
 
@@ -197,6 +215,8 @@ The loop runs correctly for the first few iterations, but then crashes with:
 Your job is to use print() statements to diagnose why the code crashes, and then fix the bug so that the code runs
 successfully to completion.
 
+Think carefully about what this IndexError means given what we learned in the previous bug.
+
 ```runnable lang="python"
 import numpy as np
 
@@ -219,58 +239,4 @@ print("Success! All iterations completed.")
 assert np.round(y[-1], 8) == 0.25141333
 
 print("Success! Final assertion passed.")
-```
-
-
-##  Bug 5
-
-This script is intended to approximate the integral
-
-      ∫₀¹ (3x²) dx
-
-using the trapezium (trapezoid) rule with n = 5 subintervals.
-
-The student has attempted to implement the trapezium rule manually
-using a for-loop:
-
-    Integral ≈ h * [0.5*f(x₀) + f(x₁) + ... + f(x_{n-1}) + 0.5*f(x_n)]
-
-However, the code contains THREE bugs.
-
-Your tasks:
-
-    1. Use print() statements to identify all three bugs.
-    2. Fix the code so it correctly computes the integral.
-    3. Verify that the final answer should be 1.0 (the exact value of ∫₀¹ 3x² dx).
-
-```runnable lang="python"
-import numpy as np
-
-# STEP 1: Define the function to integrate via the trapezium rule
-def f(x):
-    return 3 * x**2
-
-# STEP 2: Set up the trapezium rule parameters, which is
-# n: number of intervals
-# a: lower limit
-# b: upper limit
-# h: width of each interval
-
-n = 5
-a, b = 0, 1
-h = (a - b) / n
-
-# STEP 3: Create the x values at which to evaluate f
-x = np.linspace(a, b, n)
-
-# STEP 4: Implement the trapezium rule using a for-loop
-integral = 0.0
-
-for i in range(n):
-
-    integral += 0.5 * (f(x[i]) + f(x[i])) * h
-
-print(integral)
-
-assert np.isclose(1.02, integral,atol=1.0e-4)
 ```
