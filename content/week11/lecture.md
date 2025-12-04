@@ -8,7 +8,7 @@
 
 * In-person invigilated exam in a campus computer cluster.
 * Can consult hand-written or printed notes, [the lecture materials via chirun](https://lti.chirun.org.uk/media/chirun-packages/output/daf84705-b35e-4219-95a0-733823b1b1f6/), load and refer to previous code saved in your University OneDrive.
-* Can access [Python Documentation](hhttps://docs.python.org/3/library/index.html), [NumPy Documentation](https://numpy.org/doc/), [Matplotlib Documentation](https://matplotlib.org/stable/index.html) and [SciPy Documentation](https://docs.scipy.org/doc/scipy/) online.
+* Can access [Python Documentation](https://docs.python.org/3/library/index.html), [NumPy Documentation](https://numpy.org/doc/), [Matplotlib Documentation](https://matplotlib.org/stable/index.html) and [SciPy Documentation](https://docs.scipy.org/doc/scipy/) online.
 
 Full information available [on this page](https://ncl.instructure.com/courses/68091/pages/preparing-for-the-phy2039-exam?module_item_id=3873559).
 
@@ -26,9 +26,17 @@ Make sure you know the following **before** the exam:
 
 ## Advice: during the exam
 
-The exam is made up of 4 questions, each of roughly equal length. You have two hours (plus any additional time as per an SSP) to complete the exam.
+The exam is made up of 4 questions, each worth ~25 marks and of roughly equal length. 
+
+* The mock exams 1 and 2 are 5 questions (each worth ~ 20) marks, Mock Exam 3 is 4 questions (each worth ~25 marks).
+
+You have two hours (plus any additional time as per an SSP) to complete the exam.
 
 This suggests approximately 30 minutes per question, including checking your work.
+
+---
+
+## Advice: during the exam
 
 Other suggestions:
 
