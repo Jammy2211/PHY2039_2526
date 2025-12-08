@@ -66,6 +66,8 @@ Other suggestions:
 
 * Mock Exam 1, Question 1, c on the "neighbouring" function is a good example of a question you should be able to answer through Python knowledge alone.
 
+---
+
 ## Questions With Look Up Answer
 
 * Lots of methods you can often look up the answer via the lecture notes, or even better via a prepared code snippet.
