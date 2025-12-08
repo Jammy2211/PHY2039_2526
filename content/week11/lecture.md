@@ -24,6 +24,14 @@ Make sure you know the following **before** the exam:
 
 ---
 
+Think carefully about how and where you will practise for the exams:
+
+* Can you run Python and Spyder on your own computer? If not make sure you budget time to practise in the campus computer clusters.
+* Recommend you do this anyway to get used to the environment you will be using in the exam.
+* You can always run Python via the chirun notes (I will show example in a moment).
+
+---
+
 ## Advice: during the exam
 
 The exam is made up of 4 questions, each worth ~25 marks and of roughly equal length. 
@@ -46,4 +54,23 @@ Other suggestions:
 
 * Don't consider the exam complete until you have checked your work.
 
+---
+
+## Questions Testing Python Knowledge
+
+* Hard to have a prepared answer to look up.
+
+* Relying on lecture notes will likely lead to a lot of time spent searching, make exam rushed.
+
+* Basically the Python / Numpy foundations: defining variables, slicing arrays, loops, conditionals, defining functions, basic plotting.
+
+* Mock Exam 1, Question 1, c on the "neighbouring" function is a good example of a question you should be able to answer through Python knowledge alone.
+
+## Questions With Look Up Answer
+
+* Lots of methods you can often look up the answer via the lecture notes, or even better via a prepared code snippet.
+
+* Examples include, root finding, curve fitting, numerical integration, solving ODEs.
+
+*Mock Exam 1, Question 3, a on the Trapezium Rule is a good example.
 
